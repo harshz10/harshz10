@@ -71,9 +71,7 @@
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshz10&show_icons=true&theme=dark&locale=en" alt="harshz10's GitHub Stats" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshz10&theme=dark" alt="harshz10's GitHub Streak Stats" />
 </p>
