@@ -1,7 +1,13 @@
 <h1 align="center">Hello, I'm Harsh Nagar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right alt="coding" width="400"src="https://64.media.tumblr.com/tumblr_loe3lnA8OC1qlncjwo1_500.gif">
+<img 
+  align="right" 
+  alt="coding" 
+  width="400" 
+  src="https://64.media.tumblr.com/tumblr_loe3lnA8OC1qlncjwo1_500.gif"
+/>
+
 - 🌱 I’m currently learning **react & Ai**
 
 - 📫 How to reach me **nagarhaarssh@gmail.com**
