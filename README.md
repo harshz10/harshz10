@@ -79,7 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshz10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-
+![snake gif](https://github.com/harshz10/harshz10/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -88,4 +88,4 @@
   I code while listening to classical music 🎵
 </p>
 
-![snake gif](https://github.com/harshz10/harshz10/blob/output/github-snake-dark.svg)
+
