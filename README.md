@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 **Currently Learning:** Machine learning & AI  
+- 🌱 **Currently Learning:** Machine learning & Artificial intelligence
 - 📫 **Contact Me:** [nagarhaarssh@gmail.com](mailto:nagarhaarssh@gmail.com)
 
 ---
